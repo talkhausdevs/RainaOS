@@ -1,0 +1,8 @@
+{
+  "name": "RainaOS",
+  "description": "RainaOS is a web-based mobile operating system simulation, inspired by iOS, featuring several functional apps including a Gemini-powered chat assistant, weather, maps, photos, and more. This application demonstrates a clean, responsive UI with a home screen, app icons, and interactive applications.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
